@@ -16,4 +16,3 @@ jobs:
         run: |
           echo This is a GitHub Action workflow modification.
           echo My name is Rutvik Zalavadiya.
-
